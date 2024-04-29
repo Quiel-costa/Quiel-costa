@@ -10,6 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiel-costa&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quiel-costa&size_weight=0.5&count_weight=0.5)
+
 Tecnologias que uso no meu dia 
 <div style = "display: incline_block"><br/>
   <img align = "center" alt = "HTML" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
